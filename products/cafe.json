@@ -1,0 +1,10 @@
+{
+    "title": "Café Orgánico Premium",
+    "description": "Café de altura cultivado de forma orgánica en las montañas de Boyacá. Tostado artesanalmente para preservar su aroma y sabor característico.",
+    "imageUrl": "https://multimedia.distritocafetero.com//2024/11/organico-lata-premium-detalle-cafe.webp",
+    "price": 18000,
+    "isOnSale": true,
+    "isGlutenFree": 1,
+    "isVegan": 1,
+    "isCategory": 1
+}

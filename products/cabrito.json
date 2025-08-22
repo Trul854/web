@@ -1,0 +1,10 @@
+{
+    "title": "Cabrito Guisado",
+    "description": "Cabrito tierno guisado con especias costeñas, plato típico de Sucre y Córdoba.",
+    "imageUrl": "https://imag.bonviveur.com/cabrito-guisado.jpg",
+    "price": 24000,
+    "isOnSale": false,
+    "isGlutenFree": 1,
+    "isVegan": 0,
+    "isCategory": 8
+}

@@ -1,0 +1,10 @@
+{
+    "title": "Cebada Perlada",
+    "description": "Cebada perlada para sopas y caldos nutritivos. Cereal tradicional de la cocina andina.",
+    "imageUrl": "https://grupovida.com/sites/default/files/cebada_perla_0.jpg",
+    "price": 4500,
+    "isOnSale": false,
+    "isGlutenFree": 0,
+    "isVegan": 1,
+    "isCategory": 6
+}

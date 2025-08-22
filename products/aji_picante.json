@@ -1,0 +1,10 @@
+{
+    "title": "Ají Picante Casero",
+    "description": "Salsa picante artesanal con ajíes, cebolla, tomate y especias. Acompaña cualquier plato.",
+    "imageUrl": "https://unareceta.com/wp-content/uploads/2017/08/receta-de-salsa-de-aji-ecuatoriano.jpg",
+    "price": 3500,
+    "isOnSale": true,
+    "isGlutenFree": 0,
+    "isVegan": 1,
+    "isCategory": 4
+}

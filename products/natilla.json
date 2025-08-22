@@ -1,0 +1,10 @@
+{
+    "title": "Natilla Tradicional",
+    "description": "Postre navideño colombiano hecho con leche, maicena, canela y panela. Sabor de la infancia.",
+    "imageUrl": "https://poltecsas.com/wp-content/uploads/2024/11/Natilla.jpg",
+    "price": 5500,
+    "isOnSale": false,
+    "isGlutenFree": 1,
+    "isVegan": 0,
+    "isCategory": 2
+}

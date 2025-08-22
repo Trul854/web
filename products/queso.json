@@ -1,0 +1,10 @@
+{
+    "title": "Queso Campesino",
+    "description": "Queso fresco elaborado con leche de vacas alimentadas en pastizales naturales de la región. Textura suave y sabor delicado, perfecto para el desayuno.",
+    "imageUrl": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?w=400&h=300&fit=crop",
+    "price": 12000,
+    "isOnSale": false,
+    "isGlutenFree": 1,
+    "isVegan": 0,
+    "isCategory": 4
+}

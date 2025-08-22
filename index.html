@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sabores del Valle</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <h2>Sabores del Valle</h2>
+            </div>
+            <div class="nav-menu">
+                <a href="#work" class="nav-link">Proyectos</a>
+                <a href="#about" class="nav-link">Sobre nosotros</a>
+                <a href="products.html" class="nav-link">Productos</a>
+            </div>
+            <div class="cart-icon" id="cartIcon">
+                🛒
+                <span class="cart-count" id="cartCount">0</span>
+            </div>
+        </div>
+    </nav>
+
+    <div class="cart-dropdown" id="cartDropdown">
+        <div class="cart-header">
+            <h3>Shopping Cart</h3>
+        </div>
+        <div class="cart-items" id="cartItems">
+            <!-- Cart items will be populated by JavaScript -->
+        </div>
+        <div class="cart-footer">
+            <div class="cart-total" id="cartTotal">Total: $0</div>
+            <button class="checkout-btn" id="checkoutBtn">Checkout</button>
+        </div>
+    </div>
+
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Bienvenidos a Sabores del Valle</h1>
+            <p>Descubre los mejores sabores de nuestra región con ingredientes frescos y naturales</p>
+            <a href="products.html" class="cta-button">Ver Productos</a>
+        </div>
+    </section>
+
+
+    <section id="work" class="section">
+        <div class="container">
+            <h2>Nuestro Trabajo</h2>
+            <div class="work-grid">
+                <div class="work-item">
+                    <h3>Ingredientes Frescos</h3>
+                    <p>Seleccionamos cuidadosamente los mejores ingredientes locales para garantizar la máxima calidad en cada producto.</p>
+                </div>
+                <div class="work-item">
+                    <h3>Recetas Tradicionales</h3>
+                    <p>Preservamos las recetas familiares transmitidas de generación en generación, manteniendo el sabor auténtico.</p>
+                </div>
+                <div class="work-item">
+                    <h3>Proceso Artesanal</h3>
+                    <p>Cada producto es elaborado de manera artesanal, con dedicación y amor por la gastronomía tradicional.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section id="about" class="section">
+        <div class="container">
+            <h2>Sobre Nosotros</h2>
+            <div class="about-content">
+                <div class="about-text">
+                    <p>Sabores del Valle nació del sueño de compartir los sabores auténticos de nuestra región. Desde 1995, hemos trabajado incansablemente para preservar las tradiciones culinarias y ofrecer productos de la más alta calidad.</p>
+                    <p>Nuestro compromiso es con la excelencia, la tradición y la satisfacción de nuestros clientes, quienes confían en nosotros para llevar los mejores sabores a sus mesas.</p>
+                </div>
+                <div class="company-info">
+                    <h3>Nuestra Historia</h3>
+                    <p>Con más de 25 años de experiencia, hemos crecido de ser un pequeño negocio familiar a convertirnos en una referencia de calidad y tradición en toda la región.</p>
+                </div>
+            </div>
+
+            <div class="team-section">
+                <h3>Nuestro Equipo Desarrollador</h3>
+                <div class="team-grid">
+                    <div class="team-member">
+                        <div class="member-photo" onclick="openImageOverlay('T.JPG')">
+                            <img src="T.JPG" alt=".">
+                        </div>
+                        <h4 class="member-name"></h4>
+                        <p class="member-role">Manager</p>
+                        <p class="member-description">Líder estratégica, empática y resolutiva; impulsa equipos hacia metas claras con comunicación y visión efectiva..</p>
+                    </div>
+
+                    <div class="team-member">
+                        <div class="member-photo" onclick="openImageOverlay('D.JPG')">
+                            <img src="D.JPG" alt="">
+                        </div>
+                        <h4 class="member-name"></h4>
+                        <p class="member-role">Diseñador UI/UX</p>
+                        <p class="member-description">Diseñador apasionado por crear interfaces hermosas y funcionales que conecten emocionalmente con los usuarios.</p>
+                    </div>
+
+                    <div class="team-member">
+                        <div class="member-photo" onclick="openImageOverlay('S.PNG')">
+                            <img src="S.PNG" alt="">
+                        </div>
+                        <h4 class="member-name"></h4>
+                        <p class="member-role">Programador</p>
+                        <p class="member-description">Amplia experiencia implementando soluciones.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="image-overlay" id="imageOverlay" onclick="closeImageOverlay()">
+            <div class="overlay-close" onclick="closeImageOverlay()">×</div>
+            <img class="overlay-image" id="overlayImage" src="" alt="Team Member">
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 Sabores del Valle. Todos los derechos reservados.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

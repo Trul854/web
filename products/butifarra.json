@@ -1,0 +1,10 @@
+{
+    "title": "Butifarra Costeña",
+    "description": "Embutido tradicional de la costa con carne de res, cerdo y especias naturales.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Butifarras_solede%C3%B1as.jpg/1200px-Butifarras_solede%C3%B1as.jpg",
+    "price": 8500,
+    "isOnSale": false,
+    "isGlutenFree": 0,
+    "isVegan": 0,
+    "isCategory": 0
+}

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checkout - Sabores del Valle</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <a href="index.html" style="text-decoration: none; color: inherit;">
+                    <h2>Sabores del Valle</h2>
+                </a>
+            </div>
+            <div class="nav-menu">
+                <a href="index.html#work" class="nav-link">Proyectos</a>
+                <a href="index.html#about" class="nav-link">Sobre nosotros</a>
+                <a href="products.html" class="nav-link">Productos</a>
+            </div>
+            <div class="cart-icon" id="cartIcon">
+                🛒
+                <span class="cart-count" id="cartCount">0</span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Checkout Container -->
+    <section class="checkout-container">
+        <div class="container">
+            <div class="checkout-header">
+                <h1>Resumen de tu Compra</h1>
+                <p>Revisa los detalles de tu pedido</p>
+            </div>
+
+            <div class="checkout-content">
+                <div class="checkout-items" id="checkoutItems">
+                    <!-- Checkout items will be populated by JavaScript -->
+                </div>
+                
+                <div class="checkout-summary">
+                    <div class="checkout-total">
+                        <span>Total:</span>
+                        <span id="checkoutTotal">$0</span>
+                    </div>
+                    
+                    <div class="success-message">
+                        ¡Compra realizada con éxito! Gracias por confiar en Sabores del Valle.
+                    </div>
+                    
+                    <button class="continue-shopping-btn" onclick="window.location.href='products.html'">
+                        Continuar Comprando
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 Sabores del Valle. Todos los derechos reservados.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

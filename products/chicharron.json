@@ -1,0 +1,10 @@
+{
+    "title": "Chicharrón Artesanal",
+    "description": "Chicharrón crujiente preparado de manera artesanal con carne de cerdo de la región. Ideal como aperitivo o para acompañar comidas tradicionales.",
+    "imageUrl": "https://keeshaskitchen.com/wp-content/uploads/2022/02/Braided_Chicharron_1024x1024-600x400.jpg",
+    "price": 8500,
+    "isOnSale": true,
+    "isGlutenFree": 1,
+    "isVegan": 0,
+    "isCategory": 0
+}

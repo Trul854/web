@@ -1,0 +1,10 @@
+{
+    "title": "Miel de Abeja Pura",
+    "description": "Miel 100% natural extraída de colmenas ubicadas en zonas rurales libres de contaminación. Rica en nutrientes y con propiedades medicinales naturales.",
+    "imageUrl": "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop",
+    "price": 15000,
+    "isOnSale": false,
+    "isGlutenFree": 1,
+    "isVegan": 0,
+    "isCategory": 2
+}

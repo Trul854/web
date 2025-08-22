@@ -1,0 +1,10 @@
+{
+    "title": "Chigüiro Llanero",
+    "description": "Carne exótica de chigüiro, preparada tradicionalmente en los Llanos Orientales.",
+    "imageUrl": "https://imagenes.eltiempo.com/files/image_1200_600/uploads/2023/06/24/6497143a2885d.jpeg",
+    "price": 28000,
+    "isOnSale": false,
+    "isGlutenFree": 1,
+    "isVegan": 0,
+    "isCategory": 8
+}

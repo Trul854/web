@@ -1,0 +1,10 @@
+{
+    "title": "Quinoa Boyacense",
+    "description": "Quinoa cultivada en los páramos de Boyacá, súper alimento andino rico en proteínas.",
+    "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=400&h=300&fit=crop",
+    "price": 8500,
+    "isOnSale": true,
+    "isGlutenFree": 1,
+    "isVegan": 1,
+    "isCategory": 6
+}

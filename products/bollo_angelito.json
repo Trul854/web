@@ -1,0 +1,10 @@
+{
+    "title": "Bollo Angelito",
+    "description": "Bollo salado costeño con masa de maíz blanco, envuelto en hoja de mazorca.",
+    "imageUrl": "https://1.bp.blogspot.com/-Nj4Alwer7dM/Xad24ipwKfI/AAAAAAAAKiE/wD68nmASpjkEoSB482WSHcGQDtsh3SOfgCLcBGAsYHQ/s1600/72460816_2719917394735584_5846711672642732032_o.jpg",
+    "price": 2500,
+    "isOnSale": true,
+    "isGlutenFree": 1,
+    "isVegan": 1,
+    "isCategory": 5
+}

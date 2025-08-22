@@ -1,0 +1,10 @@
+{
+    "title": "Avena Colombiana",
+    "description": "Bebida cremosa de avena con leche, canela y panela. Nutritiva y deliciosa.",
+    "imageUrl": "https://vecinavegetariana.com/wp-content/uploads/2022/01/Avena-Colombiana-_1-1.jpeg",
+    "price": 3200,
+    "isOnSale": false,
+    "isGlutenFree": 0,
+    "isVegan": 0,
+    "isCategory": 1
+}

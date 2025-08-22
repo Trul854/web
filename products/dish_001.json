@@ -1,0 +1,10 @@
+{
+  "title": "Filete de Res Grillado",
+  "description": "Jugoso filete de res de 300g, preparado a la parrilla con especias frescas.",
+  "price": 32000,
+  "imageUrl": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=400&h=300&fit=crop",
+  "isOnSale": 0,
+  "isGlutenFree": 1,
+  "isVegan": 0,
+  "isCategory": 0
+}

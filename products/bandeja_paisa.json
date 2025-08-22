@@ -1,0 +1,10 @@
+{
+    "title": "Bandeja Paisa",
+    "description": "Plato típico antioqueño con fríjoles, arroz, carne molida, chicharrón, chorizo, huevo frito, patacón y aguacate.",
+    "imageUrl": "https://recetasdecocina.elmundo.es/wp-content/uploads/2025/05/bandeja-paisa-1024x683.jpg",
+    "price": 25000,
+    "isOnSale": true,
+    "isGlutenFree": 0,
+    "isVegan": 0,
+    "isCategory": 7
+}

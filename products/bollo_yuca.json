@@ -1,0 +1,10 @@
+{
+    "title": "Bollo de Yuca",
+    "description": "Bollo costeño envuelto en hoja de mazorca, hecho con yuca rallada y coco.",
+    "imageUrl": "https://www.mycolombianrecipes.com/wp-content/uploads/2010/07/Bollo-de-yuca.jpg",
+    "price": 3200,
+    "isOnSale": false,
+    "isGlutenFree": 1,
+    "isVegan": 1,
+    "isCategory": 5
+}

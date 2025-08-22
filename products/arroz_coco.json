@@ -1,0 +1,10 @@
+{
+    "title": "Arroz con Coco",
+    "description": "Arroz tradicional costeño cocido con leche de coco, dulce o salado según la preparación.",
+    "imageUrl": "https://mandolina.co/wp-content/uploads/2024/05/arroz-coco-1200x900.jpg",
+    "price": 6500,
+    "isOnSale": false,
+    "isGlutenFree": 1,
+    "isVegan": 1,
+    "isCategory": 7
+}

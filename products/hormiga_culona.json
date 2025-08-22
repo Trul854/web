@@ -1,0 +1,10 @@
+{
+    "title": "Hormigas Culonas",
+    "description": "Delicatesen santandereana, hormigas grandes tostadas con sal. Sabor único y tradicional.",
+    "imageUrl": "https://elgransantander.com/wp-content/uploads/2024/01/91187254f20844bd1a17cd6fba85da41.jpg",
+    "price": 45000,
+    "isOnSale": true,
+    "isGlutenFree": 1,
+    "isVegan": 0,
+    "isCategory": 8
+}

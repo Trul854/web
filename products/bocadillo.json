@@ -1,0 +1,10 @@
+{
+    "title": "Bocadillo de Guayaba",
+    "description": "Dulce tradicional de guayaba de Santander. Elaborado artesanalmente con fruta natural.",
+    "imageUrl": "https://vecinavegetariana.com/wp-content/uploads/2022/10/Bocadillo-de-Guayaba-Colombiano-3.jpg",
+    "price": 4200,
+    "isOnSale": false,
+    "isGlutenFree": 1,
+    "isVegan": 1,
+    "isCategory": 2
+}

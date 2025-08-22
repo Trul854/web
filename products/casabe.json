@@ -1,0 +1,10 @@
+{
+    "title": "Casabe Artesanal",
+    "description": "Tortilla tradicional hecha de yuca brava, crujiente y sin gluten. Ideal como acompañamiento.",
+    "imageUrl": "https://imag.bonviveur.com/aspecto-del-casabe-una-vez-hecho.jpg",
+    "price": 3200,
+    "isOnSale": false,
+    "isGlutenFree": 1,
+    "isVegan": 1,
+    "isCategory": 5
+}

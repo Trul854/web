@@ -1,0 +1,10 @@
+{
+    "title": "Semillas de Chía",
+    "description": "Semillas de chía colombianas, súper alimento rico en omega 3 y fibra natural.",
+    "imageUrl": "https://i.blogs.es/5fec7a/chia1/500_333.jpeg",
+    "price": 12500,
+    "isOnSale": true,
+    "isGlutenFree": 1,
+    "isVegan": 1,
+    "isCategory": 6
+}

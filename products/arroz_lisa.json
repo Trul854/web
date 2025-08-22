@@ -1,0 +1,10 @@
+{
+    "title": "Arroz con Lisa",
+    "description": "Plato costeño con arroz, pescado lisa salado y coco. Sabores del Caribe colombiano.",
+    "imageUrl": "https://imagenes.eltiempo.com/files/og_thumbnail/uploads/2024/02/07/65c3b279cbb14.png",
+    "price": 16800,
+    "isOnSale": false,
+    "isGlutenFree": 1,
+    "isVegan": 0,
+    "isCategory": 7
+}

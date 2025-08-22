@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Productos - Sabores del Valle</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <a href="index.html" style="text-decoration: none; color: inherit;">
+                    <h2>Sabores del Valle</h2>
+                </a>
+            </div>
+            <div class="nav-menu">
+                <a href="index.html#work" class="nav-link">Work</a>
+                <a href="index.html#about" class="nav-link">About Us</a>
+                <a href="products.html" class="nav-link">Products</a>
+            </div>
+            <div class="cart-icon" id="cartIcon">
+                🛒
+                <span class="cart-count" id="cartCount">0</span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Cart Dropdown -->
+    <div class="cart-dropdown" id="cartDropdown">
+        <div class="cart-header">
+            <h3>Shopping Cart</h3>
+        </div>
+        <div class="cart-items" id="cartItems">
+            <!-- Cart items will be populated by JavaScript -->
+        </div>
+        <div class="cart-footer">
+            <div class="cart-total" id="cartTotal">Total: $0</div>
+            <button class="checkout-btn" id="checkoutBtn">Checkout</button>
+        </div>
+    </div>
+
+    <!-- Products Header -->
+    <section class="products-header">
+        <div class="container">
+            <h1>Nuestros Productos</h1>
+            <p>Descubre nuestra selección de productos artesanales</p>
+        </div>
+    </section>
+
+    <!-- Filters Section -->
+    <section class="filters-section">
+        <div class="container">
+            <div class="filters-container">
+                <div class="filter-group">
+                    <label for="categoryFilter">Categoría:</label>
+                    <select id="categoryFilter" class="filter-select">
+                        <option value="all">Todas las categorías</option>
+                        <option value="0">Carnes</option>
+                        <option value="1">Bebidas</option>
+                        <option value="2">Postres/Dulces</option>
+                        <option value="3">Sopas/Caldos</option>
+                        <option value="4">Acompañamientos</option>
+                        <option value="5">Panes/Masas</option>
+                        <option value="6">Granos/Semillas</option>
+                        <option value="7">Platos Principales</option>
+                        <option value="8">Exóticos</option>
+                    </select>
+                </div>
+                
+                <div class="filter-group">
+                    <label class="filter-checkbox">
+                        <input type="checkbox" id="onSaleFilter">
+                        <span class="checkmark"></span>
+                        En Oferta
+                    </label>
+                </div>
+                
+                <div class="filter-group">
+                    <label class="filter-checkbox">
+                        <input type="checkbox" id="glutenFreeFilter">
+                        <span class="checkmark"></span>
+                        Sin Gluten
+                    </label>
+                </div>
+                
+                <div class="filter-group">
+                    <label class="filter-checkbox">
+                        <input type="checkbox" id="veganFilter">
+                        <span class="checkmark"></span>
+                        Vegano
+                    </label>
+                </div>
+                
+                <div class="filter-group">
+                    <button id="clearFilters" class="clear-filters-btn">Limpiar Filtros</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Products Container -->
+    <section class="products-container">
+        <div class="container">
+            <div class="products-count" id="productsCount">
+                <!-- Product count will be shown here -->
+            </div>
+            <div class="products-grid" id="productsGrid">
+                <!-- Products will be populated by JavaScript -->
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 Sabores del Valle. Todos los derechos reservados.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

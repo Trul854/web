@@ -1,0 +1,10 @@
+{
+    "title": "Empanadas Tradicionales",
+    "description": "Deliciosas empanadas hechas con masa artesanal y relleno de carne, pollo o queso. Preparadas con recetas familiares transmitidas por generaciones.",
+    "imageUrl": "https://images.unsplash.com/photo-1624128082323-beb6b8b508db?w=400&h=300&fit=crop",
+    "price": 2500,
+    "isOnSale": true,
+    "isGlutenFree": 0,
+    "isVegan": 0,
+    "isCategory": 5
+}

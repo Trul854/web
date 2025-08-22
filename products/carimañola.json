@@ -1,0 +1,10 @@
+{
+    "title": "Carimañola Costeña",
+    "description": "Fritos de yuca rellenos con carne molida, queso o pollo. Crujientes y sabrosos.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Barranquilla_-_Carima%C3%B1olas.jpg/960px-Barranquilla_-_Carima%C3%B1olas.jpg",
+    "price": 4200,
+    "isOnSale": false,
+    "isGlutenFree": 0,
+    "isVegan": 0,
+    "isCategory": 4
+}

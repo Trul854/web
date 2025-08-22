@@ -1,0 +1,10 @@
+{
+    "title": "Champús Vallecaucano",
+    "description": "Bebida tradicional con maíz, piña, canela, panela y lulo. Refrescante y nutritiva.",
+    "imageUrl": "https://elrinconcolombiano.com/wp-content/uploads/2023/07/champus-1-500x500.jpg",
+    "price": 5000,
+    "isOnSale": true,
+    "isGlutenFree": 1,
+    "isVegan": 1,
+    "isCategory": 1
+}

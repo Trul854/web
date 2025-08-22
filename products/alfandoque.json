@@ -1,0 +1,10 @@
+{
+    "title": "Alfandoque Costeño",
+    "description": "Dulce de coco con panela en forma de barrita. Tradicional de la costa atlántica.",
+    "imageUrl": "https://dulcescolombianos.com/wp-content/uploads/2022/10/dulces-tipicos-de-colombia.jpg",
+    "price": 2800,
+    "isOnSale": false,
+    "isGlutenFree": 1,
+    "isVegan": 1,
+    "isCategory": 2
+}

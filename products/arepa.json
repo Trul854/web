@@ -1,0 +1,10 @@
+{
+    "title": "Arepa Boyacense",
+    "description": "Arepa tradicional boyacense elaborada con maíz amarillo molido a la piedra. Perfecta para acompañar con queso campesino o mantequilla.",
+    "imageUrl": "https://www.cheeseokay.com/wp-content/uploads/2020/08/222.png",
+    "price": 1800,
+    "isOnSale": false,
+    "isGlutenFree": 0,
+    "isVegan": 1,
+    "isCategory": 5
+}

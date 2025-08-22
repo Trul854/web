@@ -1,0 +1,10 @@
+{
+  "title": "Pollo a la Parrilla",
+  "description": "Pechuga de pollo 250g marinada, proteína 35g, calorías 280",
+  "price": 22000,
+  "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435",
+  "isOnSale": 1,
+  "isGlutenFree": 1,
+  "isVegan": 0,
+  "isCategory": 0
+}

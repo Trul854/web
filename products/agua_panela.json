@@ -1,0 +1,10 @@
+{
+    "title": "Agua de Panela con Limón",
+    "description": "Bebida tradicional caliente o fría, hecha con panela y limón. Reconfortante y saludable.",
+    "imageUrl": "https://vecinavegetariana.com/wp-content/uploads/2022/04/Limonada-de-Panela-Colombian-Sugarcane-Limeade-2.jpeg",
+    "price": 2800,
+    "isOnSale": false,
+    "isGlutenFree": 1,
+    "isVegan": 1,
+    "isCategory": 1
+}

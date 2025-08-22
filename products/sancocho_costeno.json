@@ -1,0 +1,10 @@
+{
+    "title": "Sancocho Costeño",
+    "description": "Sancocho tradicional de la costa atlántica con pescado, yuca, ñame, plátano y verduras frescas.",
+    "imageUrl": "https://images.unsplash.com/photo-1547592180-85f173990554?w=400&h=300&fit=crop",
+    "price": 16000,
+    "isOnSale": false,
+    "isGlutenFree": 0,
+    "isVegan": 0,
+    "isCategory": 3
+}
